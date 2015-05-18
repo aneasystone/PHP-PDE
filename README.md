@@ -1,4 +1,4 @@
-PHP-PDE - PHP Portable Develop Enviroment
+PHP-PDE - PHP Portable Develop Environment
 ===============================================================
 绿色版PHP开发环境，直接运行脚本文件即可开发和运行PHP网站，支持Apache和Nginx两大Web服务器。
 
