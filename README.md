@@ -21,3 +21,7 @@ Remarks:
 -----------------------
  - Apache对应的www目录为：webserver\Apache-2.4\htdocs
  - Nginx对应的www目录为：webserver\nginx-1.9.0\html
+ 
+Downloads:
+-----------------------
+完整的软件包可以从这里下载：http://pan.baidu.com/s/1sjOErZv
