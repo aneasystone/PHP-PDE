@@ -12,15 +12,18 @@ Current Package contains:
 
 Usage:
 -----------------------
- - 启动Apache：start apache.bat（注意修改APACHEROOT和PHPROOT两个变量对应你的开发环境）
- - 启动Nginx：start nginx.bat（注意修改NGINXROOT和PHPROOT两个变量对应你的开发环境）
+ - 启动Apache：start apache.bat
+ - 启动Nginx：start nginx.bat
  - 停止Apache：stop apache.bat
  - 停止Nginx：stop nginx.bat
  
 Remarks:
 -----------------------
- - Apache对应的www目录为：webserver\Apache-2.4\htdocs
+ - Apache对应的www目录为：~~webserver\Apache-2.4\htdocs~~
+  - www目录需要手工设置：DOCROOT
+  - 注意修改PDEROOT、APACHEROOT、PHPROOT两个变量对应你的开发环境
  - Nginx对应的www目录为：webserver\nginx-1.9.0\html
+  - - 注意修改PDEROOT、APACHEROOT、PHPROOT两个变量对应你的开发环境
  
 Downloads:
 -----------------------
