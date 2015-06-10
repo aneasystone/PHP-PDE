@@ -4,11 +4,11 @@ PHP-PDE - PHP Portable Develop Environment
 
 Current Package contains:
 -------------------------
-- php-5.6.9
-- Apache-2.4
-- nginx-1.9.0
-- fnr.exe from http://findandreplace.codeplex.com/
-- RunHiddenConsole.exe from http://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip
+- [php-5.6.9](http://windows.php.net/download)
+- [Apache-2.4](http://www.apachelounge.com/download/)
+- [nginx-1.9.0](http://nginx.org/en/download.html)
+- [fnr.exe](http://findandreplace.codeplex.com/)
+- [RunHiddenConsole.exe](http://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip)
 
 Usage:
 -----------------------
@@ -23,8 +23,4 @@ Remarks:
   - www目录需要手工设置：DOCROOT
   - 注意修改PDEROOT、APACHEROOT、PHPROOT两个变量对应你的开发环境
  - Nginx对应的www目录为：webserver\nginx-1.9.0\html
-  - - 注意修改PDEROOT、APACHEROOT、PHPROOT两个变量对应你的开发环境
- 
-Downloads:
------------------------
-完整的软件包可以从这里下载：http://pan.baidu.com/s/1sjOErZv
+  - 注意修改PDEROOT、APACHEROOT、PHPROOT两个变量对应你的开发环境
